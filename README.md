@@ -1,6 +1,6 @@
-![react-chat-ui logo](https://i.imgur.com/YhPrFWw.png)
+# 🙊 ola-chat-ui
 
-# 🙊 react-chat-ui
+A clone of React-chat-ui with custom CSS stlying
 
 A library of React components for building chat UI's.
 
